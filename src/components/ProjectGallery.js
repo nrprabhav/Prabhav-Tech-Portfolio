@@ -4,12 +4,9 @@ import projects from "../projects.json"
 
 function ProjectGallery() {
     return (
-        <Project
-            name={projects[0].name}
-            image={projects[0].image}
-            deployedLink={projects[0].deployedLink}
-            repoLink={projects[0].repoLink}
-        />
+    <div class="d-flex justify-content-around flex-wrap">
+        {projects.map(item => <Project projects={item} />)}
+    </div>
     );
 };
 
