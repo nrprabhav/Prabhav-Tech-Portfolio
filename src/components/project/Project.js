@@ -5,7 +5,7 @@ function Project(props) {
     return (
         <div className="card">
           <div className="img-container">
-            <img alt={props.projects.name} src={props.projects.image} />
+            <img alt={props.projects.name} src={props.projects.image} height={200} width={150}/>
           </div>
           <div className="content">
             <ul>
@@ -13,10 +13,10 @@ function Project(props) {
                 <strong>Project Name:</strong> {props.projects.name}
               </li>
               <li>
-                <strong>Deployed Link:</strong> {props.projects.deployedLink}
+                <strong> <a href={props.projects.deployedLink}>Deployed Link</a></strong>
               </li>
               <li>
-                <strong>Repository Link:</strong> {props.projects.repoLink}
+                <strong> <a href={props.projects.repoLink}>Repository Link</a></strong>
               </li>
             </ul>
           </div>

@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "SpongeBob",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "deployedLink": "Fry Cook",
-        "repoLink": "A Pineapple Under the Sea"
+        "name": "Bootstrap Portfolio",
+        "image": "./1.png",
+        "deployedLink": "https://nrprabhav.github.io/Bootstrap-Portfolio/",
+        "repoLink": "https://github.com/nrprabhav/Bootstrap-Portfolio"
     },
     {
         "id": 2,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "deployedLink": "Restaurant Owner",
-        "repoLink": "A Giant Anchor"
+        "name": "Daily Scheduler",
+        "image": "./2.png",
+        "deployedLink": "https://nrprabhav.github.io/Daily-Scheduler/",
+        "repoLink": "https://github.com/nrprabhav/Daily-Scheduler"
     },
     {
         "id": 3,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "deployedLink": "Cashier",
-        "repoLink": "An Easter Island Head"
+        "name": "Password Generator",
+        "image": "./3.png",
+        "deployedLink": "https://nrprabhav.github.io/Password-Generator/",
+        "repoLink": "https://github.com/nrprabhav/Password-Generator"
     },
     {
         "id": 1,
-        "name": "SpongeBob",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-        "deployedLink": "Fry Cook",
-        "repoLink": "A Pineapple Under the Sea"
+        "name": "Times Table Trainer",
+        "image": "./4.png",
+        "deployedLink": "https://github.com/nrprabhav/Times-Table-Trainer",
+        "repoLink": "https://nrprabhav.github.io/Times-Table-Trainer/"
     },
     {
         "id": 2,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-        "deployedLink": "Restaurant Owner",
-        "repoLink": "A Giant Anchor"
+        "name": "Travel Weather Forecast",
+        "image": "./5.png",
+        "deployedLink": "https://github.com/nrprabhav/Travel-Weather-Forecast",
+        "repoLink": "https://nrprabhav.github.io/Travel-Weather-Forecast/"
     },
     {
         "id": 3,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-        "deployedLink": "Cashier",
-        "repoLink": "An Easter Island Head"
+        "name": "JavaScript Quiz Game",
+        "image": "./6.gif",
+        "deployedLink": "https://nrprabhav.github.io/javaScript-quiz-game/",
+        "repoLink": "https://github.com/nrprabhav/javaScript-quiz-game"
     }
 ]
