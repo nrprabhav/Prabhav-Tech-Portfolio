@@ -2,6 +2,7 @@
 
 ## Project Links
 Repository Link: https://github.com/nrprabhav/prabhav-tech-portfolio
+Deployed Link: https://nrprabhav.github.io/prabhav-tech-portfolio
 
 ## Description
 A javascript code that generates a HTML page with portfolio details in the portfolio.json file.
