@@ -26,7 +26,7 @@ function Resume() {
     <div>
       <h1 className="text-center display-1">Resume</h1>
       <p className="text-center">
-        Please download my resume for your reference here: <a href="./resume.pdf">Resume.pdf</a>
+        Please download my resume for your reference here: <a href="./prabhav-tech-portfolio/resume.pdf">Resume.pdf</a>
       </p>
     </div>
   );

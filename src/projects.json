@@ -2,42 +2,42 @@
     {
         "id": 1,
         "name": "Bootstrap Portfolio",
-        "image": "./1.png",
+        "image": "./prabhav-tech-portfolio/1.png",
         "deployedLink": "https://nrprabhav.github.io/Bootstrap-Portfolio/",
         "repoLink": "https://github.com/nrprabhav/Bootstrap-Portfolio"
     },
     {
         "id": 2,
         "name": "Daily Scheduler",
-        "image": "./2.png",
+        "image": "./prabhav-tech-portfolio/2.png",
         "deployedLink": "https://nrprabhav.github.io/Daily-Scheduler/",
         "repoLink": "https://github.com/nrprabhav/Daily-Scheduler"
     },
     {
         "id": 3,
         "name": "Password Generator",
-        "image": "./3.png",
+        "image": "./prabhav-tech-portfolio/3.png",
         "deployedLink": "https://nrprabhav.github.io/Password-Generator/",
         "repoLink": "https://github.com/nrprabhav/Password-Generator"
     },
     {
         "id": 1,
         "name": "Times Table Trainer",
-        "image": "./4.png",
+        "image": "./prabhav-tech-portfolio/4.png",
         "deployedLink": "https://github.com/nrprabhav/Times-Table-Trainer",
         "repoLink": "https://nrprabhav.github.io/Times-Table-Trainer/"
     },
     {
         "id": 2,
         "name": "Travel Weather Forecast",
-        "image": "./5.png",
+        "image": "./prabhav-tech-portfolio/5.png",
         "deployedLink": "https://github.com/nrprabhav/Travel-Weather-Forecast",
         "repoLink": "https://nrprabhav.github.io/Travel-Weather-Forecast/"
     },
     {
         "id": 3,
         "name": "JavaScript Quiz Game",
-        "image": "./6.gif",
+        "image": "./prabhav-tech-portfolio/6.gif",
         "deployedLink": "https://nrprabhav.github.io/javaScript-quiz-game/",
         "repoLink": "https://github.com/nrprabhav/javaScript-quiz-game"
     }
