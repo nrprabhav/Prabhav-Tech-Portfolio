@@ -31,4 +31,14 @@ The packages can be installed by doing the installation as detailed above.
 ## Screenshots
 
 ### Output HTML
+#### Home
 ![](./public/screenShot.png)
+
+#### Project Portfolio
+![](./public/screenShot1.png)
+
+#### Contact
+![](./public/screenShot2.png)
+
+#### Resume
+![](./public/screenShot3.png)
