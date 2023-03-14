@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prabhav-tech-portfolio/static/css/main.4a71b961.css",
-    "main.js": "/prabhav-tech-portfolio/static/js/main.947191df.js",
+    "main.js": "/prabhav-tech-portfolio/static/js/main.69f0f24f.js",
     "static/js/787.8c10d847.chunk.js": "/prabhav-tech-portfolio/static/js/787.8c10d847.chunk.js",
     "index.html": "/prabhav-tech-portfolio/index.html",
     "main.4a71b961.css.map": "/prabhav-tech-portfolio/static/css/main.4a71b961.css.map",
-    "main.947191df.js.map": "/prabhav-tech-portfolio/static/js/main.947191df.js.map",
+    "main.69f0f24f.js.map": "/prabhav-tech-portfolio/static/js/main.69f0f24f.js.map",
     "787.8c10d847.chunk.js.map": "/prabhav-tech-portfolio/static/js/787.8c10d847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a71b961.css",
-    "static/js/main.947191df.js"
+    "static/js/main.69f0f24f.js"
   ]
 }
